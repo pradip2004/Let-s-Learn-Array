@@ -36,7 +36,7 @@ Now lets compare with example
 <b><span style="color:#81b29a;">so we can say cupboard is also an Array. I thing this example is clear to you to understand Array</span></b>
 
 🌟**Contiguous Memory Location:**  As explain above contiguous memory location means `series of adjacent memory addresses in a computer's memory where data is stored sequentially.`
-
+![Array-example-2](./assets/example2.jpg)
 
 ****
 # 📒Declaration
