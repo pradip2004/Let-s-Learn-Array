@@ -8,7 +8,7 @@ So let's dive deep into the sea of programming and find some Pearl for your skil
 
 ## 📒Introduction
 
-First we need to know what an is array, okay so let's take a practical example - 
+First, we need to know what is an array, okay so let's take a practical example - 
 We all have a cupboard in our house, right!!
 If I tell you that your cupboard is an array then what is your reaction? You may laugh at me, okay no problem I, 'll explain how..
 
