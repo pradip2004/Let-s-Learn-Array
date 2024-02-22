@@ -41,4 +41,4 @@ Now let's compare with the example
 
 ****
 # 📒Declaration
-
+ Lets learn how to declare array in c++
